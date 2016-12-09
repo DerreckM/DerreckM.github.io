@@ -16,6 +16,8 @@ The second was called 'How to Quickly and Easily Get Started with Hyperconvergen
 
 The big idea here is centered around the term coined 'hyperconvergence'.  Some of the network and server terminology is over my head at this
 point in my career, but the main points they address are:
-+ Hyperconvergence gives you the speed you need to stay ahead of the curve.
-+ It consolidates storage into servers with internal spinning and solid state drives that are cheaper and easier to automate than traditional storage.
-+ It’s also insanely easy to install.
+1. Hyperconvergence gives you the speed you need to stay ahead of the curve.
+2. It consolidates storage into servers with internal spinning and solid state drives that are
+  * cheaper
+  * easier to automate than traditional storage
+3. It’s also insanely easy to install.
