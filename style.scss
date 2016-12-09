@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 120px;
+  height: 180px;
   margin-right: 15px;
 
   @include mobile {
@@ -257,7 +257,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 12px;
     font-style: italic;
   }
 
@@ -266,6 +266,11 @@ nav {
   }
 
   .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+
+  .read-less {
     text-transform: uppercase;
     font-size: 15px;
   }
